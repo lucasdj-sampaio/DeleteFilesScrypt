@@ -1,0 +1,16 @@
+C:\Users\lucas.sampaio\source\repos\DeleteCrimFile\DeleteCrimFile\bin\Debug\net5.0\DeleteCrimFile.exe
+C:\Users\lucas.sampaio\source\repos\DeleteCrimFile\DeleteCrimFile\bin\Debug\net5.0\DeleteCrimFile.deps.json
+C:\Users\lucas.sampaio\source\repos\DeleteCrimFile\DeleteCrimFile\bin\Debug\net5.0\DeleteCrimFile.runtimeconfig.json
+C:\Users\lucas.sampaio\source\repos\DeleteCrimFile\DeleteCrimFile\bin\Debug\net5.0\DeleteCrimFile.runtimeconfig.dev.json
+C:\Users\lucas.sampaio\source\repos\DeleteCrimFile\DeleteCrimFile\bin\Debug\net5.0\DeleteCrimFile.dll
+C:\Users\lucas.sampaio\source\repos\DeleteCrimFile\DeleteCrimFile\bin\Debug\net5.0\ref\DeleteCrimFile.dll
+C:\Users\lucas.sampaio\source\repos\DeleteCrimFile\DeleteCrimFile\bin\Debug\net5.0\DeleteCrimFile.pdb
+C:\Users\lucas.sampaio\source\repos\DeleteCrimFile\DeleteCrimFile\obj\Debug\net5.0\DeleteCrimFile.csproj.AssemblyReference.cache
+C:\Users\lucas.sampaio\source\repos\DeleteCrimFile\DeleteCrimFile\obj\Debug\net5.0\DeleteCrimFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.sampaio\source\repos\DeleteCrimFile\DeleteCrimFile\obj\Debug\net5.0\DeleteCrimFile.AssemblyInfoInputs.cache
+C:\Users\lucas.sampaio\source\repos\DeleteCrimFile\DeleteCrimFile\obj\Debug\net5.0\DeleteCrimFile.AssemblyInfo.cs
+C:\Users\lucas.sampaio\source\repos\DeleteCrimFile\DeleteCrimFile\obj\Debug\net5.0\DeleteCrimFile.csproj.CoreCompileInputs.cache
+C:\Users\lucas.sampaio\source\repos\DeleteCrimFile\DeleteCrimFile\obj\Debug\net5.0\DeleteCrimFile.dll
+C:\Users\lucas.sampaio\source\repos\DeleteCrimFile\DeleteCrimFile\obj\Debug\net5.0\ref\DeleteCrimFile.dll
+C:\Users\lucas.sampaio\source\repos\DeleteCrimFile\DeleteCrimFile\obj\Debug\net5.0\DeleteCrimFile.pdb
+C:\Users\lucas.sampaio\source\repos\DeleteCrimFile\DeleteCrimFile\obj\Debug\net5.0\DeleteCrimFile.genruntimeconfig.cache
