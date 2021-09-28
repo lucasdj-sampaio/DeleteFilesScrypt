@@ -2,7 +2,7 @@
   "profiles": {
     "DeleteCrimFile": {
       "commandName": "Project",
-      "commandLineArgs": "C:\\Users\\lucas.sampaio\\source\\repos\\DeleteCrimFile\\DeleteCrimFile\\FileToRemove.txt C:\\Users\\lucas.sampaio\\Desktop\\BACKUP"
+      "commandLineArgs": "C:\\Users\\lucas.sampaio\\source\\repos\\DeleteCrimFile\\DeleteCrimFile\\FileToRemove.txt \\\\10.210.36.44\\Files\\Bradesco\\BACKUP_ROBO \\\\10.210.139.12\\Files\\Bradesco\\Digitalizacao\\"
     }
   }
 }

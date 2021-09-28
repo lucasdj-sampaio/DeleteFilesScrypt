@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r7tML9K6NzcJCKsqNFlHMRQXLStn8kiKE+8G0XrQPGrqK369y9jW2R5WLL4QVcU41Dvih7VjdGn+ZU+K6UiLjg==",
+  "dgSpecHash": "zPqFKF8vd36CCwLgAsH6rXYTpuZ46ezTR0OOCwNbXJLqQ5z0PTbnl6HezvkIZ8CuMBCtGglwN49FUlz7pg5AWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas.sampaio\\source\\repos\\DeleteCrimFile\\DeleteCrimFile\\DeleteCrimFile.csproj",
+  "projectFilePath": "C:\\DEV\\Bradesco\\DeleteFilesScrypt\\DeleteCrimFile\\DeleteCrimFile.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -14,18 +14,16 @@ namespace DeleteCrimFile
             {
                 foreach (var file in File.ReadAllLines(args[0]))
                 {
-                    if (File.Exists(file))
+                    if (File.Exists($"{args[2]}/{file}"))
                     {
-                        string fileName = new FileInfo(file).Name;
-
-                        if (MoveAsync(file, $"{args[1]}/{fileName}").GetAwaiter().GetResult())
+                        if (MoveAsync($"{args[2]}/{file}", $"{args[1]}/{file}").GetAwaiter().GetResult())
                             RegisterLog(args[0].Replace(new FileInfo(args[0]).Name, ""),
-                                $"---------------------------\nArquivo ({fileName}) movido " +
-                                $"DE: {file} " +
-                                $"PARA: {args[1]}\\{fileName}\n");
+                                $"---------------------------\nArquivo ({new FileInfo($"{args[2]}/{file}").Name}) movido " +
+                                $"DE: {args[2]}/{file}" +
+                                $"PARA: {args[1]}/{file}\n");
                         else
                             RegisterLog(args[0].Replace(new FileInfo(args[0]).Name, ""),
-                                $"---------------------------\nErro ao mover arquivo - \n{fileName}\n");
+                                $"---------------------------\nErro ao mover arquivo - \n{args[2]}/{file}\n");
                     }
                 }
 

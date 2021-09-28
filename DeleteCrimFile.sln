@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteCrimFile", "DeleteCrimFile\DeleteCrimFile.csproj", "{F9E11E0B-BB5B-4DDE-8544-172C1E9B9631}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeleteCrimFile", "DeleteCrimFile\DeleteCrimFile.csproj", "{F9E11E0B-BB5B-4DDE-8544-172C1E9B9631}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetOcorrenceDelete", "GetOcorrenceDelete\GetOcorrenceDelete.csproj", "{0F2AB48B-E5D5-40A0-9B94-691952AF191E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F9E11E0B-BB5B-4DDE-8544-172C1E9B9631}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9E11E0B-BB5B-4DDE-8544-172C1E9B9631}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9E11E0B-BB5B-4DDE-8544-172C1E9B9631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F2AB48B-E5D5-40A0-9B94-691952AF191E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2AB48B-E5D5-40A0-9B94-691952AF191E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2AB48B-E5D5-40A0-9B94-691952AF191E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2AB48B-E5D5-40A0-9B94-691952AF191E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

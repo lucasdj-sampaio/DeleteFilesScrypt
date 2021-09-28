@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas.sampaio\\source\\repos\\DeleteCrimFile\\DeleteCrimFile\\DeleteCrimFile.csproj": {}
+    "C:\\DEV\\Bradesco\\DeleteFilesScrypt\\DeleteCrimFile\\DeleteCrimFile.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas.sampaio\\source\\repos\\DeleteCrimFile\\DeleteCrimFile\\DeleteCrimFile.csproj": {
+    "C:\\DEV\\Bradesco\\DeleteFilesScrypt\\DeleteCrimFile\\DeleteCrimFile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas.sampaio\\source\\repos\\DeleteCrimFile\\DeleteCrimFile\\DeleteCrimFile.csproj",
+        "projectUniqueName": "C:\\DEV\\Bradesco\\DeleteFilesScrypt\\DeleteCrimFile\\DeleteCrimFile.csproj",
         "projectName": "DeleteCrimFile",
-        "projectPath": "C:\\Users\\lucas.sampaio\\source\\repos\\DeleteCrimFile\\DeleteCrimFile\\DeleteCrimFile.csproj",
+        "projectPath": "C:\\DEV\\Bradesco\\DeleteFilesScrypt\\DeleteCrimFile\\DeleteCrimFile.csproj",
         "packagesPath": "C:\\Users\\lucas.sampaio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas.sampaio\\source\\repos\\DeleteCrimFile\\DeleteCrimFile\\obj\\",
+        "outputPath": "C:\\DEV\\Bradesco\\DeleteFilesScrypt\\DeleteCrimFile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
