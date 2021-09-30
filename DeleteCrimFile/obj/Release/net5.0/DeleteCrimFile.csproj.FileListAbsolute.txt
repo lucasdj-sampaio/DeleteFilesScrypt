@@ -1,0 +1,16 @@
+C:\DEV\Bradesco\DeleteFilesScrypt\DeleteCrimFile\bin\Release\net5.0\DeleteCrimFile.exe
+C:\DEV\Bradesco\DeleteFilesScrypt\DeleteCrimFile\bin\Release\net5.0\DeleteCrimFile.deps.json
+C:\DEV\Bradesco\DeleteFilesScrypt\DeleteCrimFile\bin\Release\net5.0\DeleteCrimFile.runtimeconfig.json
+C:\DEV\Bradesco\DeleteFilesScrypt\DeleteCrimFile\bin\Release\net5.0\DeleteCrimFile.runtimeconfig.dev.json
+C:\DEV\Bradesco\DeleteFilesScrypt\DeleteCrimFile\bin\Release\net5.0\DeleteCrimFile.dll
+C:\DEV\Bradesco\DeleteFilesScrypt\DeleteCrimFile\bin\Release\net5.0\ref\DeleteCrimFile.dll
+C:\DEV\Bradesco\DeleteFilesScrypt\DeleteCrimFile\bin\Release\net5.0\DeleteCrimFile.pdb
+C:\DEV\Bradesco\DeleteFilesScrypt\DeleteCrimFile\obj\Release\net5.0\DeleteCrimFile.csproj.AssemblyReference.cache
+C:\DEV\Bradesco\DeleteFilesScrypt\DeleteCrimFile\obj\Release\net5.0\DeleteCrimFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\Bradesco\DeleteFilesScrypt\DeleteCrimFile\obj\Release\net5.0\DeleteCrimFile.AssemblyInfoInputs.cache
+C:\DEV\Bradesco\DeleteFilesScrypt\DeleteCrimFile\obj\Release\net5.0\DeleteCrimFile.AssemblyInfo.cs
+C:\DEV\Bradesco\DeleteFilesScrypt\DeleteCrimFile\obj\Release\net5.0\DeleteCrimFile.csproj.CoreCompileInputs.cache
+C:\DEV\Bradesco\DeleteFilesScrypt\DeleteCrimFile\obj\Release\net5.0\DeleteCrimFile.dll
+C:\DEV\Bradesco\DeleteFilesScrypt\DeleteCrimFile\obj\Release\net5.0\ref\DeleteCrimFile.dll
+C:\DEV\Bradesco\DeleteFilesScrypt\DeleteCrimFile\obj\Release\net5.0\DeleteCrimFile.pdb
+C:\DEV\Bradesco\DeleteFilesScrypt\DeleteCrimFile\obj\Release\net5.0\DeleteCrimFile.genruntimeconfig.cache
