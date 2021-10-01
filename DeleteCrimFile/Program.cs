@@ -14,16 +14,19 @@ namespace DeleteCrimFile
             {
                 foreach (var file in File.ReadAllLines(args[0]))
                 {
-                    if (File.Exists($"{args[2]}/{file}"))
+                    if (File.Exists($"{args[2]}\\{file}"))
                     {
-                        if (MoveAsync($"{args[2]}/{file}", $"{args[1]}/{file}").GetAwaiter().GetResult())
+                        if (!Directory.Exists($"{args[1]}\\{file.Replace(new FileInfo(file).Name, "")}"))
+                            Directory.CreateDirectory($"{args[1]}\\{file.Replace(new FileInfo(file).Name, "")}");
+
+                        if (MoveAsync($"{args[2]}\\{file}", $"{args[1]}\\{file}").GetAwaiter().GetResult())
                             RegisterLog(args[0].Replace(new FileInfo(args[0]).Name, ""),
-                                $"---------------------------\nArquivo ({new FileInfo($"{args[2]}/{file}").Name}) movido " +
+                                $"---------------------------\nArquivo ({new FileInfo($"{args[2]}\\{file}").Name}) movido " +
                                 $"DE: {args[2]}/{file}" +
                                 $"PARA: {args[1]}/{file}\n");
                         else
                             RegisterLog(args[0].Replace(new FileInfo(args[0]).Name, ""),
-                                $"---------------------------\nErro ao mover arquivo - \n{args[2]}/{file}\n");
+                                $"---------------------------\nErro ao mover arquivo - \n{args[2]}\\{file}\n");
                     }
                 }
 
@@ -64,10 +67,10 @@ namespace DeleteCrimFile
 
         private static void RegisterLog(string path, string register)
         {
-            if (!File.Exists($"{path}/{logFileName}"))
-                File.Create($"{path}/{logFileName}").Close();
+            if (!File.Exists($"{path}\\{logFileName}"))
+                File.Create($"{path}\\{logFileName}").Close();
 
-            File.AppendAllTextAsync($"{path}/{logFileName}", register).Dispose();
+            File.AppendAllTextAsync($"{path}\\{logFileName}", register).Dispose();
         }
     }
 }
